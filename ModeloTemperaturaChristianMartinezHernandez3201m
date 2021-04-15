@@ -8,12 +8,12 @@
 
 % C(f) =  ((f*5)/9)+32
 % si se graficá su comportamiento es lineal
-%     ^
-%   y |
-%     |   
-%     |____________
-%     | 
-%     |_____________  > x
+%      ^
+%    y |
+%      |   
+%      |____________
+%      | 
+%      |_____________  > x
 %
 
 % limpiar variables
