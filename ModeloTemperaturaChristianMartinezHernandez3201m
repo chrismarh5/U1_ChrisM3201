@@ -1,10 +1,10 @@
 % Octave Script
 % Modelo matematico de Temperatura
-% Titulo    		 :Funciones
-% Descripcion		:Script para graficar una funcion de f(x) = a  
-% Autor 	    	 :Christian Martinez Hernandez Grupo: 3201 correo: chris6905mh@gmail.com
-% Dia			       :20210414
-% Nota			      :Requiere aplicacion octave usar en consola preferentemente
+% Titulo:        Funciones
+% Descripcion:   Script para graficar una funcion de f(x) = a  
+% Autor:         Christian Martinez Hernandez Grupo: 3201 correo: chris6905mh@gmail.com
+% Dia:           20210414
+% Nota:Requiere aplicacion octave usar en consola preferentemente
 
 % C(f) =  ((f*5)/9)+32
 % si se graficá su comportamiento es lineal
