@@ -1,0 +1,22 @@
+% Octave Script
+% Titulo    		:Funcion Lineal
+% Descripcion		:Script para graficar una funcion lineal, funcion de y=v(5&2x)   
+% Autor 	    	:Christian Martinez Hernandez Grupo: 3201 correo: chris6905mh@gmail.com
+% Dia			      :20210415
+% Nota			    :Requiere aplicacion octave usar en consola preferentemente
+ 
+% limpiar variables
+ clear
+% Ejemplo y=2-v(4x-2)
+% Rango de -10..10 en i = 3
+ x=-10:0.2:10; 
+% Valor de la funcion 
+ y=nthroot(2*(x),5); 
+% Dibujar x,y
+ plot(x,y);
+% Titulo
+ title ("y=v(5&2x)");
+% Etiqueta para x
+ xlabel("x");
+% Etiqueta para y
+ ylabel("f(x)");
